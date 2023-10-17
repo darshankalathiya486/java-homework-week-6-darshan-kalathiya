@@ -2,7 +2,7 @@ package homeworkweek6;
 
 import java.util.Scanner;
 
-public class UpperToLowerCase {
+public class Programme_9_UpperToLowerCase {
 
     public static void convert(String text){
         System.out.println("uppercase text = " + text);

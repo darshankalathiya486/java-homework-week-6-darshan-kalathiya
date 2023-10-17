@@ -2,7 +2,7 @@ package homeworkweek6;
 
 import java.util.Scanner;
 
-public class MultiplicationTable {
+public class Programme_10_MultiplicationTable {
 
         public static void main(String[] args) {
             // Create a Scanner object to read user input

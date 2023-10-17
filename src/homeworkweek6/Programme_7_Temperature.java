@@ -2,7 +2,7 @@ package homeworkweek6;
 
 import java.util.Scanner;
 
-public class Temperature {
+public class Programme_7_Temperature {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter temperature in Fahrenheit = ");

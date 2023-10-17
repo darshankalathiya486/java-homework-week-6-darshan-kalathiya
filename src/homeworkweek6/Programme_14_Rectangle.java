@@ -2,7 +2,7 @@ package homeworkweek6;
 
 import java.util.Scanner;
 
-public class Rectangle {
+public class Programme_14_Rectangle {
 
     public static void area (double W , double H) {
         System.out.println("W = " + W);

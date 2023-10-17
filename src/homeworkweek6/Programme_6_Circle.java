@@ -2,7 +2,7 @@ package homeworkweek6;
 
 import java.util.Scanner;
 
-public class Circle {
+public class Programme_6_Circle {
     public static void main(String[] args) {
         // Create a Scanner object
         Scanner scanner = new Scanner(System.in);

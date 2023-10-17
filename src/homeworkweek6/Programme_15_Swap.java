@@ -1,6 +1,6 @@
 package homeworkweek6;
 
-public class Swap {
+public class Programme_15_Swap {
         public static void main(String[] args) {
             // Define two variables
             int a = 5;

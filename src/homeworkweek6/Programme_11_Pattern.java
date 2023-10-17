@@ -1,6 +1,6 @@
 package homeworkweek6;
 
-public class Pattern {
+public class Programme_11_Pattern {
 
     public static void main(String[] args) {
         System.out.println("J   a  v    v  a");

@@ -1,6 +1,6 @@
 package homeworkweek6;
 
-public class Sentence {
+public class Programme_19_Sentence {
 
     String sen = "THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG.";
 
@@ -11,7 +11,7 @@ public class Sentence {
     }
 
     public static void main(String[] args) {
-        Sentence obj = new Sentence();
+        Programme_19_Sentence obj = new Programme_19_Sentence();
         obj.convert();
 
 

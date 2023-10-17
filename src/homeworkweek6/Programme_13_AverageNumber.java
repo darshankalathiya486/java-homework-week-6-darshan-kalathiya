@@ -2,7 +2,7 @@ package homeworkweek6;
 
 import java.util.Scanner;
 
-public class AverageNumber {
+public class Programme_13_AverageNumber {
     public static void main(String[] args)
     {
         Scanner in = new Scanner(System.in);

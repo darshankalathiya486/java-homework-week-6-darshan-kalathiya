@@ -1,6 +1,6 @@
 package homeworkweek6;
 
-public class Print {
+public class Programme_20_Print {
     public static void main(String[] args) {
         System.out.println(" +-----------------------------------+ ");
         System.out.println(" |                                   | ");
